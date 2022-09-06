@@ -1,5 +1,7 @@
 # LH_AC_EDGE_ALL_in_ONE.bin
 
+![logo_github](https://user-images.githubusercontent.com/56954112/188657542-121a59bb-6500-48c4-bbd1-0480a88ae78b.jpg)
+
 ## Requirements
 
 ### Supported hardware
@@ -46,4 +48,5 @@ Licensed under the [MIT](https://github.com/FRANAIRBUS/LH_AC_EDGE/blob/main/LICE
 ## Special thanks
 
  @ [Hieromon](https://github.com/Hieromon/AutoConnect) For its great library and its [documentation](https://hieromon.github.io/AutoConnect/index.html) that has allowed us to create this application.
+
 
