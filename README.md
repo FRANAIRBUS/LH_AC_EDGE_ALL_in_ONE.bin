@@ -1,4 +1,4 @@
-# LH_AC_EDGE
+# LH_AC_EDGE_ALL_in_ONE.bin
 
 ## Requirements
 
