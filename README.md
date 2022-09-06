@@ -1,6 +1,6 @@
 # LH_AC_EDGE_ALL_in_ONE.bin
 
-![logo_github](https://user-images.githubusercontent.com/56954112/188657542-121a59bb-6500-48c4-bbd1-0480a88ae78b.jpg)
+![logo_github](https://user-images.githubusercontent.com/56954112/188724480-c4129902-9ac4-4cd7-b0c1-3fc372d8daaf.jpg)
 
 ## Requirements
 
